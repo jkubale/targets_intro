@@ -1,0 +1,5 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+clean_penguin_data|function|0277d7cae8f82d16|||||||||||||||
+penguins_csv_file|stem|c286b0b76d2e0e01|ca6179b7f7390b0c|ef46db3751d8e999|-681700601||t19722.9069422935s|b0efa4f1e05eee68|121|rds|local|vector|||0||
+penguins_data|stem|178cdba1ee88e77e|20ae688c08a32e74|eebb7e8d8c91f7f3|-1394396070||t19722.9178822069s|a8fa5b2eb64d2369|1495|rds|local|vector|||0.03||
+penguins_data_raw|stem|bde77222d3265c73|c4953ac3fa745977|450940180d6af551|-1202127997||t19722.906944753s|8ab997549f74c6da|10403|rds|local|vector|||0.17||
